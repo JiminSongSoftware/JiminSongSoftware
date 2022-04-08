@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 ### 👨‍💻 About Me
-  * 🎓 Study Software Engineering at San Jose State University
+  * 🎓 Studying Software Engineering at San Jose State University
   * 😀 Voracious Reader. Avid traveler.
 
 
