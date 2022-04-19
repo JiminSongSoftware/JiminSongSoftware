@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ### 👨‍💻 About Me
   * 🎓 Studying Software Engineering at San Jose State University
   * 😀 Passionate Full Stack developer. Focused on E-Commerce.
-  * 🌱 I’m currently learning Django/Vue.js/React.js, AWS
+  * 🌱 I’m currently developing E-commerce App using Django, Nuxt, GraphQL, Docker, AWS
   * 👯 I’m looking to collaborate on E-Commerce projects
 
 
