@@ -48,7 +48,7 @@ https://jimsongthegreatest.github.io/Wedding_Invite_App_English/ <br>
 Wedding_Invite_App_Korean
 https://jimsongthegreatest.github.io/Wedding_Invite_App_Korean/ <br>
 Omnifood
-https://github.com/JimSongTheGreatest/Omnifood <br>
+https://jimsongthegreatest.github.io/Omnifood/ <br>
 
 ## Java Projects <br>
 SelfServiceBankingSystem
