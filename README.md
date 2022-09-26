@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   <!-- * 🌱 I’m currently developing E-commerce App using Django, Nuxt, GraphQL, Docker, AWS
   * 👯 I’m looking to collaborate on E-Commerce projects -->
 
-## Python Projects <br>
+## Python Projects
 Coisy 
 https://github.com/JimSongTheGreatest/Coisy <br>  
 Meno-Time
