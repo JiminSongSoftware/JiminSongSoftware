@@ -57,6 +57,8 @@ BetterStudentMySQL
 https://github.com/JimSongTheGreatest/BetterStudentMySQL <br>
 
 ## C++ Projects <br>
+Self_Driving_Car
+https://github.com/JimSongTheGreatest/Self_Driving_Car
 RFID_Parking_System
 https://github.com/JimSongTheGreatest/RFID_Parking_System <br>
 
