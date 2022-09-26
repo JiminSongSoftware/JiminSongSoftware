@@ -24,8 +24,41 @@ Here are some ideas to get you started:
   * 🌱 I’m currently developing E-commerce App using Django, Nuxt, GraphQL, Docker, AWS
   * 👯 I’m looking to collaborate on E-Commerce projects
 
+## Python Projects
+Coisy
+> https://github.com/JimSongTheGreatest/Coisy
+Meno-Time
+> https://github.com/JimSongTheGreatest/Meno-Time
+SpartanFitnessClub
+> https://github.com/JimSongTheGreatest/SpartanFitnessClub
+FitPal
+> https://github.com/JimSongTheGreatest/FitPal
 
+## Javascript Projects
+Avida-ED-Eco
+> https://github.com/JimSongTheGreatest/Avida-ED-Eco
+Kocoon
+> https://github.com/JimSongTheGreatest/Kocoon
+Wedding_Invite_App_English 
+> https://github.com/JimSongTheGreatest/Wedding_Invite_App_English
+Wedding_Invite_App_Korean
+> https://github.com/JimSongTheGreatest/Wedding_Invite_App_Korean
+Omnifood
+> https://github.com/JimSongTheGreatest/Omnifood
 
+## Java Projects
+SelfServiceBankingSystem
+> https://github.com/JimSongTheGreatest/SelfServiceBankingSystem
+BetterStudentMySQL
+> https://github.com/JimSongTheGreatest/BetterStudentMySQL
+
+## C++ Projects
+RFID_Parking_System
+> https://github.com/JimSongTheGreatest/RFID_Parking_System
+
+## IOS/Swift Projects
+MindEraser
+> https://github.com/JimSongTheGreatest/MindEraser
 
 <a href="https://github.com/JimSongTheGreatest">
 <img height=160 align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=JimSongTheGreatest" alt="Ray's GitHub Stats" title="GitHub Streak" />
