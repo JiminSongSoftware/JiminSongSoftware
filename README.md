@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### 👨‍💻 About Me
   * 🎓 Studying Software Engineering at San Jose State University
-  * 😀 Passionate Full Stack developer. Focused on E-Commerce.
-  * 🌱 I’m currently developing E-commerce App using Django, Nuxt, GraphQL, Docker, AWS
-  * 👯 I’m looking to collaborate on E-Commerce projects
+  * 😀 Passionate Full Stack developer.
+  <!-- * 🌱 I’m currently developing E-commerce App using Django, Nuxt, GraphQL, Docker, AWS
+  * 👯 I’m looking to collaborate on E-Commerce projects -->
 
-## Python Projects
+## Python Projects <br>
 Coisy
 > https://github.com/JimSongTheGreatest/Coisy <br>  
 Meno-Time
@@ -34,7 +34,7 @@ SpartanFitnessClub
 FitPal
 > https://github.com/JimSongTheGreatest/FitPal <br>
 
-## Javascript Projects
+## Javascript Projects <br>
 Avida-ED-Eco
 > https://github.com/JimSongTheGreatest/Avida-ED-Eco <br>
 Kocoon
@@ -46,17 +46,17 @@ Wedding_Invite_App_Korean
 Omnifood
 > https://github.com/JimSongTheGreatest/Omnifood <br>
 
-## Java Projects
+## Java Projects <br>
 SelfServiceBankingSystem
 > https://github.com/JimSongTheGreatest/SelfServiceBankingSystem <br>
 BetterStudentMySQL
 > https://github.com/JimSongTheGreatest/BetterStudentMySQL <br>
 
-## C++ Projects
+## C++ Projects <br>
 RFID_Parking_System
 > https://github.com/JimSongTheGreatest/RFID_Parking_System <br>
 
-## IOS/Swift Projects
+## IOS/Swift Projects <br>
 MindEraser
 > https://github.com/JimSongTheGreatest/MindEraser <br>
 
