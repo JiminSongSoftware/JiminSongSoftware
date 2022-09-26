@@ -52,17 +52,17 @@ https://jimsongthegreatest.github.io/Wedding_Invite_App_Korean/ <br>
 Omnifood
 https://jimsongthegreatest.github.io/Omnifood/ <br>
 
-## Java Projects <br>
-SelfServiceBankingSystem
-https://github.com/JimSongTheGreatest/SelfServiceBankingSystem <br>
-BetterStudentMySQL
-https://github.com/JimSongTheGreatest/BetterStudentMySQL <br>
-
 ## C++ Projects <br>
 Self_Driving_Car
 https://github.com/JimSongTheGreatest/Self_Driving_Car <br>
 RFID_Parking_System
 https://github.com/JimSongTheGreatest/RFID_Parking_System <br>
+
+## Java Projects <br>
+SelfServiceBankingSystem
+https://github.com/JimSongTheGreatest/SelfServiceBankingSystem <br>
+BetterStudentMySQL
+https://github.com/JimSongTheGreatest/BetterStudentMySQL <br>
 
 ## IOS/Swift Projects <br>
 MindEraser
