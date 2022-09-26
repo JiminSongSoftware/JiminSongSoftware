@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   * 👯 I’m looking to collaborate on E-Commerce projects -->
 
 ## Python Projects <br>
-Coisy
+Coisy <br> 
 > https://github.com/JimSongTheGreatest/Coisy <br>  
 Meno-Time
 > https://github.com/JimSongTheGreatest/Meno-Time <br>
