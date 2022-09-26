@@ -36,7 +36,7 @@ https://github.com/JimSongTheGreatest/SpartanFitnessClub <br>
 
 ## Javascript Projects <br>
 Avida-ED-Eco
-https://github.com/JimSongTheGreatest/Avida-ED-Eco <br>
+https://avida-ed.msu.edu/app4/ <br>
 Kocoon
 https://github.com/JimSongTheGreatest/Kocoon <br>
 Song_LLC
