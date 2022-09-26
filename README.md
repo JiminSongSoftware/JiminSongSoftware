@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ## Python Projects
 Coisy 
-https://github.com/JimSongTheGreatest/Coisy
+https://github.com/JimSongTheGreatest/Coisy <br>
 Meno-Time
 https://github.com/JimSongTheGreatest/Meno-Time <br>
 SpartanFitnessClub
