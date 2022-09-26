@@ -27,12 +27,12 @@ Here are some ideas to get you started:
 ## Python Projects
 Coisy 
 https://github.com/JimSongTheGreatest/Coisy <br>
+FitPal
+https://github.com/JimSongTheGreatest/FitPal <br>
 Meno-Time
 https://github.com/JimSongTheGreatest/Meno-Time <br>
 SpartanFitnessClub
 https://github.com/JimSongTheGreatest/SpartanFitnessClub <br>
-FitPal
-https://github.com/JimSongTheGreatest/FitPal <br>
 
 ## Javascript Projects <br>
 Avida-ED-Eco
