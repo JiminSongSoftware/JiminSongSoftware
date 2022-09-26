@@ -44,9 +44,9 @@ Song_LLC
 OpenCollection.io
 [private] https://opencollection.io/ <br>
 Wedding_Invite_App_English 
-https://github.com/JimSongTheGreatest/Wedding_Invite_App_English <br>
+https://jimsongthegreatest.github.io/Wedding_Invite_App_English/ <br>
 Wedding_Invite_App_Korean
-https://github.com/JimSongTheGreatest/Wedding_Invite_App_Korean <br>
+https://jimsongthegreatest.github.io/Wedding_Invite_App_Korean/ <br>
 Omnifood
 https://github.com/JimSongTheGreatest/Omnifood <br>
 
