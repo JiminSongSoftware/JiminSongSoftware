@@ -25,40 +25,40 @@ Here are some ideas to get you started:
   * 👯 I’m looking to collaborate on E-Commerce projects -->
 
 ## Python Projects <br>
-Coisy <br> 
-> https://github.com/JimSongTheGreatest/Coisy <br>  
+Coisy 
+https://github.com/JimSongTheGreatest/Coisy <br>  
 Meno-Time
-> https://github.com/JimSongTheGreatest/Meno-Time <br>
+https://github.com/JimSongTheGreatest/Meno-Time <br>
 SpartanFitnessClub
-> https://github.com/JimSongTheGreatest/SpartanFitnessClub <br>
+https://github.com/JimSongTheGreatest/SpartanFitnessClub <br>
 FitPal
-> https://github.com/JimSongTheGreatest/FitPal <br>
+https://github.com/JimSongTheGreatest/FitPal <br>
 
 ## Javascript Projects <br>
 Avida-ED-Eco
-> https://github.com/JimSongTheGreatest/Avida-ED-Eco <br>
+https://github.com/JimSongTheGreatest/Avida-ED-Eco <br>
 Kocoon
-> https://github.com/JimSongTheGreatest/Kocoon <br>
+https://github.com/JimSongTheGreatest/Kocoon <br>
 Wedding_Invite_App_English 
-> https://github.com/JimSongTheGreatest/Wedding_Invite_App_English <br>
+https://github.com/JimSongTheGreatest/Wedding_Invite_App_English <br>
 Wedding_Invite_App_Korean
-> https://github.com/JimSongTheGreatest/Wedding_Invite_App_Korean <br>
+https://github.com/JimSongTheGreatest/Wedding_Invite_App_Korean <br>
 Omnifood
-> https://github.com/JimSongTheGreatest/Omnifood <br>
+https://github.com/JimSongTheGreatest/Omnifood <br>
 
 ## Java Projects <br>
 SelfServiceBankingSystem
-> https://github.com/JimSongTheGreatest/SelfServiceBankingSystem <br>
+https://github.com/JimSongTheGreatest/SelfServiceBankingSystem <br>
 BetterStudentMySQL
-> https://github.com/JimSongTheGreatest/BetterStudentMySQL <br>
+https://github.com/JimSongTheGreatest/BetterStudentMySQL <br>
 
 ## C++ Projects <br>
 RFID_Parking_System
-> https://github.com/JimSongTheGreatest/RFID_Parking_System <br>
+https://github.com/JimSongTheGreatest/RFID_Parking_System <br>
 
 ## IOS/Swift Projects <br>
 MindEraser
-> https://github.com/JimSongTheGreatest/MindEraser <br>
+https://github.com/JimSongTheGreatest/MindEraser <br>
 
 <a href="https://github.com/JimSongTheGreatest">
 <img height=160 align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=JimSongTheGreatest" alt="Ray's GitHub Stats" title="GitHub Streak" />
