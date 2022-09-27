@@ -19,8 +19,9 @@ Here are some ideas to get you started:
 
 
 ### 👨‍💻 About Me
-  * 🎓 Studying Software Engineering at San Jose State University
+  <!-- * 🎓 Studying Software Engineering at San Jose State University -->
   * 😀 Passionate Full Stack developer.
+  * 💬 Ask me about any projects I have finished below. I will be happy to discuss every details.
   <!-- * 🌱 I’m currently developing E-commerce App using Django, Nuxt, GraphQL, Docker, AWS
   * 👯 I’m looking to collaborate on E-Commerce projects -->
 
