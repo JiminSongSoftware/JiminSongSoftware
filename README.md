@@ -37,6 +37,12 @@ Here are some ideas to get you started:
     src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"
   />
   <nobr></a>
+  <a href="https://codepen.io/jimsong"><nobr>
+  <img
+    alt="Discord"
+    src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"
+  />
+  <nobr></a>
 
 ## Python Projects
 Kocoon_Backend
