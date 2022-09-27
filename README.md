@@ -22,6 +22,7 @@ Here are some ideas to get you started:
   <!-- * 🎓 Studying Software Engineering at San Jose State University -->
   * 😀 Passionate Full Stack developer.
   * 💬 Ask me about any projects I have worked on below. I will be happy to discuss every details.
+  * 📫 Best way to reach me: jiminsong.software@gmail.com [or straight call me at 415-542-6715]
   <!-- * 🌱 I’m currently developing E-commerce App using Django, Nuxt, GraphQL, Docker, AWS
   * 👯 I’m looking to collaborate on E-Commerce projects -->
 
