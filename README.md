@@ -40,7 +40,7 @@ https://github.com/JimSongTheGreatest/SpartanFitnessClub <br>
 Avida-ED-Eco
 https://avida-ed.msu.edu/app4/ <br>
 Cms-On-Chain
->https://632cf5989b5e1b01e4c6f25a--decentra-cms.netlify.app/ <br>
+https://632cf5989b5e1b01e4c6f25a--decentra-cms.netlify.app/ <br>
 Kocoon
 https://github.com/JimSongTheGreatest/Kocoon <br>
 Song_LLC
@@ -72,9 +72,9 @@ https://github.com/JimSongTheGreatest/MindEraser <br>
 
 ## Open-Source Projects <br>
 Zipline-Trader
-> https://github.com/JimSongTheGreatest/Zipline-Trader/tree/master <br>
+https://github.com/JimSongTheGreatest/Zipline-Trader/tree/master <br>
 Discourse
-> https://github.com/JimSongTheGreatest/Discourse/tree/main <br>
+https://github.com/JimSongTheGreatest/Discourse/tree/main <br>
 
 <a href="https://github.com/JimSongTheGreatest">
 <img height=160 align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=JimSongTheGreatest" alt="Ray's GitHub Stats" title="GitHub Streak" />
