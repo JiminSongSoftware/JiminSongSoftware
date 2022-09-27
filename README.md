@@ -23,6 +23,7 @@ Here are some ideas to get you started:
   * 😀 Passionate Full Stack developer.
   * 💬 Ask me about any projects I have worked on below. I will be happy to discuss every details.
   * 📫 Best way to reach me: jiminsong.software@gmail.com [or straight call me at 415-542-6715]
+  * 🔭 [Perhaps TMI] I am convinced that one day we will colonize Mars while controlling AI with our minds.
   <!-- * 🌱 I’m currently developing E-commerce App using Django, Nuxt, GraphQL, Docker, AWS
   * 👯 I’m looking to collaborate on E-Commerce projects -->
 <a href="https://www.linkedin.com/in/jimin-song/"><nobr>
