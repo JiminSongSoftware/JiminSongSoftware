@@ -84,20 +84,21 @@ Meno-Time
 https://github.com/JimSongTheGreatest/Meno-Time <br>
 SpartanFitnessClub
 https://github.com/JimSongTheGreatest/SpartanFitnessClub <br>
-
+<a href="#"><img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"></a>
+</a>
 ## C++ Projects <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> <br>
 Self_Driving_Car
 https://github.com/JimSongTheGreatest/Self_Driving_Car <br>
 RFID_Parking_System
 https://github.com/JimSongTheGreatest/RFID_Parking_System <br>
 
-## Java Projects <br>
+## Java Projects <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"> <br>
 SelfServiceBankingSystem
 https://github.com/JimSongTheGreatest/SelfServiceBankingSystem <br>
 BetterStudentMySQL
 https://github.com/JimSongTheGreatest/BetterStudentMySQL <br>
 
-## IOS/Swift Projects <br>
+## IOS/Swift Projects <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="50/> br>
 MindEraser
 https://github.com/JimSongTheGreatest/MindEraser <br>
 
