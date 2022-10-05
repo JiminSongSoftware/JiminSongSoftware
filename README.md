@@ -51,7 +51,7 @@ Here are some ideas to get you started:
     src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"
   />
 </a>
-  
+<a href="#"><img align="right" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="200 " height="200" /></a>
 ## Javascript Projects <br>
 Avida-ED-Eco
 https://avida-ed.msu.edu/app4/ <br>
@@ -114,7 +114,5 @@ https://github.com/JimSongTheGreatest/LaTeX_Resume <br>
 </a>
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-
-<a href="#"><img align="right" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="200 " height="200" /></a>
 
 ![Visitor Count](https://profile-counter.glitch.me/JimSongTheGreatest/count.svg)
