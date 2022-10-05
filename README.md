@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=JiminSong&fontSize=60)
 
-![Visitor Count](https://profile-counter.glitch.me/JimSongTheGreatest/count.svg)
-
 ### 👨‍💻 About Me
   <!-- * 🎓 Studying Software Engineering at San Jose State University -->
   * 🥷 Passionate Coding Ninja
@@ -116,3 +114,4 @@ https://github.com/JimSongTheGreatest/LaTeX_Resume <br>
 </a>
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+![Visitor Count](https://profile-counter.glitch.me/JimSongTheGreatest/count.svg)
