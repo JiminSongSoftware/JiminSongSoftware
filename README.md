@@ -114,3 +114,5 @@ https://github.com/JimSongTheGreatest/LaTeX_Resume <br>
 <img height=160 align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=JimSongTheGreatest" alt="Jim's GitHub Stats" title="GitHub Streak"/>
 <img height=160 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JimSongTheGreatest&layout=compact" alt="Jimin's Github Most Used Languages">
 </a>
+
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
