@@ -33,12 +33,14 @@ Here are some ideas to get you started:
     src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
   />
 <nobr></a>
+  
 <a href="https://www.discord.com/users/259577923122626561/"><nobr>
   <img
     alt="Discord"
     src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"
   />
- <nobr></a>
+<nobr></a>
+  
 <a href="https://www.codepen.io/jimsong/"><nobr>
   <img
     alt="Discord"
@@ -54,8 +56,6 @@ Here are some ideas to get you started:
 <nobr></a>
 
   
-  
-
 ## Javascript Projects <br>
 Avida-ED-Eco
 https://avida-ed.msu.edu/app4/ <br>
