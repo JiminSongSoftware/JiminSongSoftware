@@ -26,42 +26,31 @@ Here are some ideas to get you started:
   * 🔭 [Perhaps TMI] I am convinced that one day we will colonize Mars while controlling AI with our minds.
   <!-- * 🌱 I’m currently developing E-commerce App using Django, Nuxt, GraphQL, Docker, AWS
   * 👯 I’m looking to collaborate on E-Commerce projects -->
-<a href="https://linkedin.com/in/jimin-song/"><nobr>
+<a href="https://linkedin.com/in/jimin-song/">
   <img
     alt="Linkedin"
     src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
   />
 </a>
-<a href="https://discord.com/users/259577923122626561"><nobr>
+</a>
+<a href="https://discord.com/users/259577923122626561">
   <img
     alt="Discord"
     src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"
   />
 </a>
-<a href="https://codepen.io/jimsong"><nobr>
+</a>
+<a href="https://codepen.io/jimsong">
   <img
     alt="Codepen"
     src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"
   />
 </a>
-<a href="https://www.kaggle.com/jimsong101"><nobr>
+</a>
+<a href="https://www.kaggle.com/jimsong101">
   <img
     alt="Kaggle"
     src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"
-  />
-</a>
-
-<a href="https://codepen.io/jimsong">
-  <img
-    alt="Twitter"
-    src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"
-  />
-</a>
-</a>
-<a href="https://linkedin.com/in/jimin-song/">
-  <img
-    alt="Linkedin"
-    src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
   />
 </a>
   
