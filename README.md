@@ -71,7 +71,8 @@ Wedding_Invite_App_Korean
 https://jimsongthegreatest.github.io/Wedding_Invite_App_Korean/ <br>
 Omnifood
 https://jimsongthegreatest.github.io/Omnifood/ <br>
-
+<a href="#"><img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" /></a>
+</a>
 ## Python Projects
 Kocoon_Backend
 https://github.com/JimSongTheGreatest/Kocoon/tree/main/KocoonAPI <br>
