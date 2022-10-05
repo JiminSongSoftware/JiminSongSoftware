@@ -97,6 +97,10 @@ https://github.com/JimSongTheGreatest/Zipline-Trader/tree/master <br>
 Discourse
 https://github.com/JimSongTheGreatest/Discourse/tree/main <br>
 
+## LaTeX <br>
+Resume & CoverLetter
+https://github.com/JimSongTheGreatest/LaTeX_Resume <br>
+
 <a href="https://github.com/JimSongTheGreatest">
 <img height=160 align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=JimSongTheGreatest" alt="Ray's GitHub Stats" title="GitHub Streak" />
 <img height=160 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JimSongTheGreatest&layout=compact" alt="Jimin's Github Most Used Languages">
