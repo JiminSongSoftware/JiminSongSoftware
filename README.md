@@ -118,4 +118,4 @@ https://github.com/JimSongTheGreatest/LaTeX_Resume <br>
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
-<a href="#"><img align="center" src="https://profile-counter.glitch.me/JimSongTheGreatest/count.svg"/></a>
+<a href="#"><img align="center" src="https://profile-counter.glitch.me/JimSongTheGreatest/count.svg" width="200 " height="200"/></a>
