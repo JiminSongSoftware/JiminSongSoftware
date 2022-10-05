@@ -92,7 +92,7 @@ https://github.com/JimSongTheGreatest/Self_Driving_Car <br>
 RFID_Parking_System
 https://github.com/JimSongTheGreatest/RFID_Parking_System <br>
 
-## Java Projects <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> <br>
+## Java Projects <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> <br>
 SelfServiceBankingSystem
 https://github.com/JimSongTheGreatest/SelfServiceBankingSystem <br>
 BetterStudentMySQL
@@ -102,7 +102,7 @@ https://github.com/JimSongTheGreatest/BetterStudentMySQL <br>
 MindEraser
 https://github.com/JimSongTheGreatest/MindEraser <br>
 
-## Open-Source Projects <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> <br>
+## Open-Source Projects <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> <br>
 Zipline-Trader
 https://github.com/JimSongTheGreatest/Zipline-Trader/tree/master <br>
 Discourse
