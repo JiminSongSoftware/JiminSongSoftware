@@ -50,6 +50,20 @@ Here are some ideas to get you started:
     src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"
   />
 </a>
+
+<a href="https://codepen.io/jimsong">
+  <img
+    alt="Twitter"
+    src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"
+  />
+</a>
+</a>
+<a href="https://https://linkedin.com/in/jimin-song/">
+  <img
+    alt="Linkedin"
+    src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
+  />
+</a>
   
 ## Javascript Projects <br>
 Avida-ED-Eco
