@@ -98,8 +98,9 @@ https://github.com/JimSongTheGreatest/SelfServiceBankingSystem <br>
 BetterStudentMySQL
 https://github.com/JimSongTheGreatest/BetterStudentMySQL <br>
 
-<a href="#"><img alight='right' src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" width="200"/> </a>
+<a href="#"><img align="right" src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" width="200" height="200"/></a>
 </a>
+
 ## IOS/Swift Projects <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="50"/> <br>
 MindEraser
 https://github.com/JimSongTheGreatest/MindEraser <br>
