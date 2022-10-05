@@ -30,19 +30,20 @@ Here are some ideas to get you started:
   <img
     alt="Linkedin"
     src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
-  /> </a>
-  
+  />
+<nobr></a>
 <a href="https://discord.com/users/259577923122626561"><nobr>
   <img
     alt="Discord"
     src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"
-  /> </a>
-  
+  />
+  <nobr></a>
 <a href="https://codepen.io/jimsong"><nobr>
   <img
     alt="Discord"
     src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"
-  /> </a>
+  />
+  <nobr></a>
   
 ## Javascript Projects <br>
 Avida-ED-Eco
