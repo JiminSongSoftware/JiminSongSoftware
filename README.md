@@ -102,7 +102,7 @@ https://github.com/JimSongTheGreatest/BetterStudentMySQL <br>
 MindEraser
 https://github.com/JimSongTheGreatest/MindEraser <br>
 
-## Open-Source Projects <br>
+## Open-Source Projects <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="50"> <br>
 Zipline-Trader
 https://github.com/JimSongTheGreatest/Zipline-Trader/tree/master <br>
 Discourse
