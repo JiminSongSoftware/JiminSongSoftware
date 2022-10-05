@@ -51,7 +51,9 @@ Here are some ideas to get you started:
     src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"
   />
 </a>
+
 <a href="#"><img align="right" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="200 " height="200" /></a>
+</a>
 ## Javascript Projects <br>
 Avida-ED-Eco
 https://avida-ed.msu.edu/app4/ <br>
