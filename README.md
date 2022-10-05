@@ -31,12 +31,14 @@ Here are some ideas to get you started:
     alt="Linkedin"
     src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
   /> </a>
+  
 <a href="https://discord.com/users/259577923122626561"><nobr>
   <img
     alt="Discord"
     src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"
   /> </a>
-  <a href="https://codepen.io/jimsong"><nobr>
+  
+<a href="https://codepen.io/jimsong"><nobr>
   <img
     alt="Discord"
     src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"
