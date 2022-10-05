@@ -27,13 +27,13 @@ Here are some ideas to get you started:
   <!-- * 🌱 I’m currently developing E-commerce App using Django, Nuxt, GraphQL, Docker, AWS
   * 👯 I’m looking to collaborate on E-Commerce projects -->
   
-  <a href="https://www.linkedin.com/in/jimin-song/"><nobr>
+<a href="https://www.linkedin.com/in/jimin-song/"><nobr>
   <img
     alt="Linkedin"
     src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
   />
-  <nobr></a>
-  <a href="https://discord.com/users/259577923122626561"><nobr>
+<nobr></a>
+<a href="https://discord.com/users/259577923122626561"><nobr>
   <img
     alt="Discord"
     src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"
@@ -41,10 +41,11 @@ Here are some ideas to get you started:
   <nobr></a>
   <a href="https://codepen.io/jimsong"><nobr>
   <img
-    alt="Codepen"
+    alt="Discord"
     src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"
   />
   <nobr></a>
+  
   <a href="https://www.kaggle.com/jimsong101"><nobr>
   <img
     alt="Kaggle"
