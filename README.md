@@ -31,25 +31,25 @@ Here are some ideas to get you started:
     alt="Linkedin"
     src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
   />
-<nobr/></a>
+</a>
 <a href="https://discord.com/users/259577923122626561"><nobr>
   <img
     alt="Discord"
     src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"
   />
-<nobr/></a>
+</a>
 <a href="https://codepen.io/jimsong"><nobr>
   <img
     alt="Codepen"
     src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"
   />
-<nobr/></a>
+</a>
 <a href="https://www.kaggle.com/jimsong101"><nobr>
   <img
     alt="Kaggle"
     src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"
   />
-<nobr/></a>
+</a>
   
 ## Javascript Projects <br>
 Avida-ED-Eco
@@ -108,6 +108,6 @@ Resume & CoverLetter
 https://github.com/JimSongTheGreatest/LaTeX_Resume <br>
 
 <a href="https://github.com/JimSongTheGreatest">
-<img height=160 align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=JimSongTheGreatest" alt="Jim's GitHub Stats" title="GitHub Streak"/> <nobr>
+<img height=160 align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=JimSongTheGreatest" alt="Jim's GitHub Stats" title="GitHub Streak"/>
 <img height=160 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JimSongTheGreatest&layout=compact" alt="Jimin's Github Most Used Languages">
 </a>
