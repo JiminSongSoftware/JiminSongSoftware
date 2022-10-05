@@ -37,13 +37,13 @@ Here are some ideas to get you started:
     alt="Discord"
     src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"
   />
-  <nobr></a>
+<nobr></a>
 <a href="https://codepen.io/jimsong"><nobr>
   <img
-    alt="Discord"
+    alt="CodePen"
     src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"
   />
-  <nobr></a>
+<nobr></a>
   
 ## Javascript Projects <br>
 Avida-ED-Eco
