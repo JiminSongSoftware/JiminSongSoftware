@@ -101,7 +101,7 @@ https://github.com/JimSongTheGreatest/BetterStudentMySQL <br>
 <a href="#"><img align="right" src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" width="250" height="200"/></a>
 </a>
 
-## IOS/Swift Projects <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="50"/> <br>
+## IOS/Swift Projects <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> <br>
 MindEraser
 https://github.com/JimSongTheGreatest/MindEraser <br>
 
