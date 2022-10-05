@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 
 <a href="#"><img align="right" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="200 " height="200" /></a>
 </a>
-## Javascript Projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  <br>
+## Javascript Projects <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30">  <br>
 Avida-ED-Eco
 https://avida-ed.msu.edu/app4/ <br>
 Cms-On-Chain
@@ -73,7 +73,7 @@ Omnifood
 https://jimsongthegreatest.github.io/Omnifood/ <br>
 <a href="#"><img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" /></a>
 </a>
-## Python Projects <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+## Python Projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 Kocoon_Backend
 https://github.com/JimSongTheGreatest/Kocoon/tree/main/KocoonAPI <br>
 Coisy 
@@ -85,7 +85,7 @@ https://github.com/JimSongTheGreatest/Meno-Time <br>
 SpartanFitnessClub
 https://github.com/JimSongTheGreatest/SpartanFitnessClub <br>
 
-## C++ Projects <br>
+## C++ Projects <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> <br>
 Self_Driving_Car
 https://github.com/JimSongTheGreatest/Self_Driving_Car <br>
 RFID_Parking_System
