@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 -->
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=JiminSong🥷&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=JiminSong&fontSize=60)
 
 
 
 ### 👨‍💻 About Me
   <!-- * 🎓 Studying Software Engineering at San Jose State University -->
-  * 😀 Passionate Full Stack developer.
+  * 🥷 Passionate Full Stack developer.
   * 💬 Ask me about any projects I have worked on below. I will be happy to discuss every details.
   * 📫 Best way to reach me: jiminsong.software@gmail.com [or straight call me at 415-542-6715]
   * 🔭 [Perhaps TMI] I am convinced that one day we will colonize Mars while controlling AI with our minds.
