@@ -26,35 +26,24 @@ Here are some ideas to get you started:
   * 🔭 [Perhaps TMI] I am convinced that one day we will colonize Mars while controlling AI with our minds.
   <!-- * 🌱 I’m currently developing E-commerce App using Django, Nuxt, GraphQL, Docker, AWS
   * 👯 I’m looking to collaborate on E-Commerce projects -->
-  
 <a href="https://www.linkedin.com/in/jimin-song/"><nobr>
   <img
     alt="Linkedin"
     src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
   />
 <nobr></a>
-  
-<a href="https://www.discord.com/users/259577923122626561/"><nobr>
+<a href="https://discord.com/users/259577923122626561"><nobr>
   <img
     alt="Discord"
     src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"
   />
-<nobr></a>
-  
-<a href="https://www.codepen.io/jimsong/"><nobr>
+  <nobr></a>
+  <a href="https://codepen.io/jimsong"><nobr>
   <img
     alt="Discord"
     src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"
   />
-<nobr></a>
-  
-<a href="https://www.kaggle.com/jimsong101/"><nobr>
-  <img
-    alt="Kaggle"
-    src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"
-  />
-<nobr></a>
-
+  <nobr></a>
   
 ## Javascript Projects <br>
 Avida-ED-Eco
