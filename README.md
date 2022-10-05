@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=JiminSong👨‍💻&fontSize=60)
 
-### <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> About Me
+### <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="50"> About Me
   <!-- * 🎓 Studying Software Engineering at San Jose State University -->
   * 🥷 Passionate Coding Ninja
   * 💬 Ask me about any projects I have worked on below. I will be happy to discuss every details.
@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 
 <a href="#"><img align="right" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="200 " height="200" /></a>
 </a>
-## Javascript Projects <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  <br>
+## Javascript Projects <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>  <br>
 Avida-ED-Eco
 https://avida-ed.msu.edu/app4/ <br>
 Cms-On-Chain
@@ -102,7 +102,7 @@ https://github.com/JimSongTheGreatest/BetterStudentMySQL <br>
 MindEraser
 https://github.com/JimSongTheGreatest/MindEraser <br>
 
-## Open-Source Projects <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="50"> <br>
+## Open-Source Projects <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> <br>
 Zipline-Trader
 https://github.com/JimSongTheGreatest/Zipline-Trader/tree/master <br>
 Discourse
