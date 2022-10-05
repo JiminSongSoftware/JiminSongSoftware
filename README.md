@@ -45,18 +45,6 @@ Here are some ideas to get you started:
   />
   <nobr></a>
 
-## Python Projects
-Kocoon_Backend
-https://github.com/JimSongTheGreatest/Kocoon/tree/main/KocoonAPI <br>
-Coisy 
-https://github.com/JimSongTheGreatest/Coisy <br>
-FitPal
-https://github.com/JimSongTheGreatest/FitPal <br>
-Meno-Time
-https://github.com/JimSongTheGreatest/Meno-Time <br>
-SpartanFitnessClub
-https://github.com/JimSongTheGreatest/SpartanFitnessClub <br>
-
 ## Javascript Projects <br>
 Avida-ED-Eco
 https://avida-ed.msu.edu/app4/ <br>
@@ -74,6 +62,18 @@ Wedding_Invite_App_Korean
 https://jimsongthegreatest.github.io/Wedding_Invite_App_Korean/ <br>
 Omnifood
 https://jimsongthegreatest.github.io/Omnifood/ <br>
+
+## Python Projects
+Kocoon_Backend
+https://github.com/JimSongTheGreatest/Kocoon/tree/main/KocoonAPI <br>
+Coisy 
+https://github.com/JimSongTheGreatest/Coisy <br>
+FitPal
+https://github.com/JimSongTheGreatest/FitPal <br>
+Meno-Time
+https://github.com/JimSongTheGreatest/Meno-Time <br>
+SpartanFitnessClub
+https://github.com/JimSongTheGreatest/SpartanFitnessClub <br>
 
 ## C++ Projects <br>
 Self_Driving_Car
