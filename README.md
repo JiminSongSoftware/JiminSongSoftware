@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ### 👨‍💻 About Me
   <!-- * 🎓 Studying Software Engineering at San Jose State University -->
-  * 🥷 Passionate Full Stack developer.
+  * 🥷 Passionate Coding Ninja
   * 💬 Ask me about any projects I have worked on below. I will be happy to discuss every details.
   * 📫 Best way to reach me: jiminsong.software@gmail.com [or straight call me at 415-542-6715]
   * 🔭 [Perhaps TMI] I am convinced that one day we will colonize Mars while controlling AI with our minds.
