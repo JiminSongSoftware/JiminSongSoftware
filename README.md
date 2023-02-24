@@ -54,6 +54,10 @@ Here are some ideas to get you started:
 
 <a href="#"><img align="right" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="200 " height="200" /></a>
 </a>
+## Typescript Projects <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>  <br>
+Nexus
+https://github.com/JimSongTheGreatest/Nexus <br>
+
 ## Javascript Projects <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>  <br>
 Avida-ED-Eco
 https://avida-ed.msu.edu/app4/ <br>
