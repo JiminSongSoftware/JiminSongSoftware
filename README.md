@@ -78,10 +78,10 @@ https://jimsongthegreatest.github.io/Omnifood/ <br>
 <a href="#"><img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="200" /></a>
 </a>
 ## Python Projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
-Kocoon_Backend
+KocoonAPI
 https://github.com/JimSongTheGreatest/Kocoon/tree/main/KocoonAPI <br>
-Coisy 
-https://github.com/JimSongTheGreatest/Coisy <br>
+CoisyAPI
+https://github.com/JimSongTheGreatest/Coisy/tree/main/coisy_django <br>
 FitPal
 https://github.com/JimSongTheGreatest/FitPal <br>
 Meno-Time
@@ -101,6 +101,8 @@ SelfServiceBankingSystem
 https://github.com/JimSongTheGreatest/SelfServiceBankingSystem <br>
 BetterStudentMySQL
 https://github.com/JimSongTheGreatest/BetterStudentMySQL <br>
+NexusAPI
+https://github.com/JimSongTheGreatest/Nexus/tree/main/NexusAPI
 
 <a href="#"><img align="right" src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" width="250" height="200"/></a>
 </a>
