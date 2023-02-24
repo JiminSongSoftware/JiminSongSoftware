@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 
 <a href="#"><img align="right" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="200 " height="200" /></a>
 </a>
-## Typescript Projects <img height="40" src="https://giphy.com/embed/veHIwhDRl780wT2XfC"/>  <br>
+## Typescript Projects <img height="40" src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif"/>  <br>
 Nexus
 https://github.com/JimSongTheGreatest/Nexus <br>
 
