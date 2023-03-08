@@ -38,7 +38,7 @@
 </a>
 ## Typescript Projects <img height="40" src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif"/>  <br>
 Nexus
-https://github.com/JimSongTheGreatest/Nexus <br>
+http://www.nexus-dashboard.software/ <br>
 ## Javascript Projects <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>  <br>
 [private]Song_LLC
 https://www.songllc.org/ <br>
