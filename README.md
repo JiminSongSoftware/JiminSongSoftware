@@ -4,7 +4,7 @@
   * 🥷 Passionate Coding Ninja
   * 💬 Ask me about any projects I have worked on below. I will be happy to discuss every details.
   * 📫 Best way to reach me: jiminsong.software@gmail.com [or straight call me at 415-542-6715]
-  * 🔭 Link to my portfolio website: https://jiminsongsoftware.me/
+  * 🔭 Please check my portfolio website: https://jiminsongsoftware.me/
   
 <a href="https://linkedin.com/in/jimin-song/">
   <img
