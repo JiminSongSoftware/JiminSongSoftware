@@ -125,7 +125,7 @@ https://github.com/JimSongTheGreatest/LaTeX_Resume <br>
 
 <a href="https://github.com/JimSongTheGreatest">
 <img height=160 align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=JimSongTheGreatest" alt="Jim's GitHub Stats" title="GitHub Streak"/>
-<img height=160 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JimSongTheGreatest&layout=compact" alt="Jimin's Github Most Used Languages">
+<img height=160 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JimSongTheGreatest&layout=compact" alt="Jimin's Github Most Used Languages"/>
 </a>
 
 <img src="https://raw.githubusercontent.com/trinib/trinib/output/github-contribution-grid-snake.svg" width="100%">
