@@ -46,6 +46,8 @@ https://www.songllc.org/ <br>
 https://opencollection.io/ <br>
 Avida-ED-Eco
 https://avida-ed.msu.edu/app4/ <br>
+FitPal
+https://fitpal.tech/ <br>
 Cms-On-Chain
 https://632cf5989b5e1b01e4c6f25a--decentra-cms.netlify.app/ <br>
 <a href="#"><img align="right" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200 " height="200" /></a>
@@ -64,7 +66,7 @@ KocoonAPI
 https://github.com/JimSongTheGreatest/Kocoon/tree/main/KocoonAPI <br>
 CoisyAPI
 https://github.com/JimSongTheGreatest/Coisy/tree/main/coisy_django <br>
-FitPal
+FitPalAPI
 https://github.com/JimSongTheGreatest/FitPal <br>
 Meno-Time
 https://github.com/JimSongTheGreatest/Meno-Time <br>
