@@ -74,9 +74,10 @@ SpartanFitnessClub
 https://github.com/JimSongTheGreatest/SpartanFitnessClub <br>
 <a href="#"><img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"></a>
 </a>
-## C++ Projects <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">  <br>
+## C++ Projects <br>
 Self_Driving_Car
 https://github.com/JimSongTheGreatest/Self_Driving_Car <br>
+<a href="#"><img align='right' src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></a> 
 RFID_Parking_System
 https://github.com/JimSongTheGreatest/RFID_Parking_System <br>
 
