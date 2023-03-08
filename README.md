@@ -58,6 +58,7 @@ Here are some ideas to get you started:
 Nexus
 https://github.com/JimSongTheGreatest/Nexus <br>
 ## Javascript Projects <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>  <br>
+<a href="#"><img align="right" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200 " height="200" /></a>
 Avida-ED-Eco
 https://avida-ed.msu.edu/app4/ <br>
 Cms-On-Chain
@@ -70,7 +71,6 @@ Song_LLC
 [private] https://www.songllc.org/ <br>
 OpenCollection.io
 [private] https://opencollection.io/ <br>
-<a href="#"><img align="right" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200 " height="200" /></a>
 Wedding_Invite_App_English 
 https://jimsongthegreatest.github.io/Wedding_Invite_App_English/ <br>
 Wedding_Invite_App_Korean
