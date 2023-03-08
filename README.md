@@ -57,7 +57,6 @@ Here are some ideas to get you started:
 ## Typescript Projects <img height="40" src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif"/>  <br>
 Nexus
 https://github.com/JimSongTheGreatest/Nexus <br>
-<a href="#"><img align="right" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200 " height="200" /></a>
 ## Javascript Projects <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>  <br>
 Avida-ED-Eco
 https://avida-ed.msu.edu/app4/ <br>
@@ -71,6 +70,7 @@ Song_LLC
 [private] https://www.songllc.org/ <br>
 OpenCollection.io
 [private] https://opencollection.io/ <br>
+<a href="#"><img align="right" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200 " height="200" /></a>
 Wedding_Invite_App_English 
 https://jimsongthegreatest.github.io/Wedding_Invite_App_English/ <br>
 Wedding_Invite_App_Korean
