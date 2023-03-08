@@ -47,10 +47,6 @@ https://632cf5989b5e1b01e4c6f25a--decentra-cms.netlify.app/ <br>
 <a href="#"><img align="right" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200 " height="200" /></a>
 Kocoon
 https://github.com/JimSongTheGreatest/Kocoon <br>
-Portfolio
-https://jiminsongsoftware.me/<br>
-Song_LLC
-[private] https://www.songllc.org/ <br>
 OpenCollection.io
 [private] https://opencollection.io/ <br>
 Wedding_Invite_App_English 
@@ -59,6 +55,10 @@ Wedding_Invite_App_Korean
 https://jimsongthegreatest.github.io/Wedding_Invite_App_Korean/ <br>
 Omnifood
 https://jimsongthegreatest.github.io/Omnifood/ <br>
+Portfolio
+https://jiminsongsoftware.me/<br>
+Song_LLC
+[private] https://www.songllc.org/ <br>
 </a>
 ## Python Projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
 <a href="#"><img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="200" /></a>
@@ -83,7 +83,7 @@ https://github.com/JimSongTheGreatest/RFID_Parking_System <br>
 ## Java Projects <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> <br>
 SelfServiceBankingSystem
 https://github.com/JimSongTheGreatest/SelfServiceBankingSystem <br>
-BetterStudentMySQL
+BetterStudent
 https://github.com/JimSongTheGreatest/BetterStudentMySQL <br>
 NexusAPI
 https://github.com/JimSongTheGreatest/Nexus/tree/main/NexusAPI
