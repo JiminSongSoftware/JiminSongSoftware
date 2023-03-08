@@ -1,29 +1,11 @@
-<!--
-**JimSongTheGreatest/JimSongTheGreatest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=JiminSong👨‍💻&fontSize=60)
 
 ### <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="50"> About Me
-  <!-- * 🎓 Studying Software Engineering at San Jose State University -->
   * 🥷 Passionate Coding Ninja
   * 💬 Ask me about any projects I have worked on below. I will be happy to discuss every details.
   * 📫 Best way to reach me: jiminsong.software@gmail.com [or straight call me at 415-542-6715]
   * 🔭 [Perhaps TMI] I am convinced that one day we will colonize Mars while controlling AI with our minds.
-  <!-- * 🌱 I’m currently developing E-commerce App using Django, Nuxt, GraphQL, Docker, AWS
-  * 👯 I’m looking to collaborate on E-Commerce projects -->
+  
 <a href="https://linkedin.com/in/jimin-song/">
   <img
     alt="Linkedin"
@@ -58,11 +40,11 @@ Here are some ideas to get you started:
 Nexus
 https://github.com/JimSongTheGreatest/Nexus <br>
 ## Javascript Projects <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>  <br>
-<a href="#"><img align="right" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200 " height="200" /></a>
 Avida-ED-Eco
 https://avida-ed.msu.edu/app4/ <br>
 Cms-On-Chain
 https://632cf5989b5e1b01e4c6f25a--decentra-cms.netlify.app/ <br>
+<a href="#"><img align="right" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200 " height="200" /></a>
 Kocoon
 https://github.com/JimSongTheGreatest/Kocoon <br>
 Portfolio
