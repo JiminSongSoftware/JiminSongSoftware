@@ -40,6 +40,10 @@
 Nexus
 https://github.com/JimSongTheGreatest/Nexus <br>
 ## Javascript Projects <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>  <br>
+Song_LLC
+[private] https://www.songllc.org/ <br>
+OpenCollection.io
+[private] https://opencollection.io/ <br>
 Avida-ED-Eco
 https://avida-ed.msu.edu/app4/ <br>
 Cms-On-Chain
@@ -47,16 +51,12 @@ https://632cf5989b5e1b01e4c6f25a--decentra-cms.netlify.app/ <br>
 <a href="#"><img align="right" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200 " height="200" /></a>
 Kocoon
 https://github.com/JimSongTheGreatest/Kocoon <br>
-OpenCollection.io
-[private] https://opencollection.io/ <br>
 Wedding_Invite_App_English 
 https://jimsongthegreatest.github.io/Wedding_Invite_App_English/ <br>
 Wedding_Invite_App_Korean
 https://jimsongthegreatest.github.io/Wedding_Invite_App_Korean/ <br>
 Omnifood
 https://jimsongthegreatest.github.io/Omnifood/ <br>
-Song_LLC
-[private] https://www.songllc.org/ <br>
 </a>
 ## Python Projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
 <a href="#"><img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="200" /></a>
