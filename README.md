@@ -40,10 +40,10 @@
 Nexus
 https://github.com/JimSongTheGreatest/Nexus <br>
 ## Javascript Projects <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>  <br>
-Song_LLC
-[private] https://www.songllc.org/ <br>
-OpenCollection.io
-[private] https://opencollection.io/ <br>
+[private]Song_LLC
+https://www.songllc.org/ <br>
+[private]OpenCollection.io
+https://opencollection.io/ <br>
 Avida-ED-Eco
 https://avida-ed.msu.edu/app4/ <br>
 Cms-On-Chain
