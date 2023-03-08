@@ -111,6 +111,4 @@ https://github.com/JimSongTheGreatest/LaTeX_Resume <br>
 <img height=160 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JimSongTheGreatest&layout=compact" alt="Jimin's Github Most Used Languages"/>
 </a>
 
-<img src="https://raw.githubusercontent.com/trinib/trinib/output/github-contribution-grid-snake.svg" width="100%">
-
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
