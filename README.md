@@ -76,7 +76,6 @@ https://github.com/JimSongTheGreatest/Meno-Time <br>
 </a>
 ## C++ Projects <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"> <br>
 Self_Driving_Car
-<a href="#"><img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"></a>
 https://github.com/JimSongTheGreatest/Self_Driving_Car <br>
 RFID_Parking_System
 https://github.com/JimSongTheGreatest/RFID_Parking_System <br>
