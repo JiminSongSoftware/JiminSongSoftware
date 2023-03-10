@@ -73,7 +73,7 @@ https://github.com/JimSongTheGreatest/FitPal <br>
 Meno-TimeAPI
 https://github.com/JimSongTheGreatest/Meno-Time <br>
 </a>
-## C++ Projects <img align='left'src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+## C++ Projects <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 <a href="#"><img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"></a>
 Self_Driving_Car
 https://github.com/JimSongTheGreatest/Self_Driving_Car <br>
