@@ -40,10 +40,10 @@
 </a>
 ## Typescript Projects <img height="20" src="https://github.com/remojansen/logo.ts/blob/master/ts.gif"/>  <br>
 Nexus
-http://www.nexus-dashboard.software/ <br>
+http://nexus-dashboard.software/ <br>
 ## Javascript Projects <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>  <br>
 [private]Song_LLC
-https://www.songllc.org/ <br>
+https://songllc.org/ <br>
 [private]OpenCollection.io
 https://opencollection.io/ <br>
 Avida-ED-Eco
