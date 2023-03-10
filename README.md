@@ -46,8 +46,6 @@ https://www.songllc.org/ <br>
 https://opencollection.io/ <br>
 Avida-ED-Eco
 https://avida-ed.msu.edu/app4/ <br>
-Cms-On-Chain
-https://632cf5989b5e1b01e4c6f25a--decentra-cms.netlify.app/ <br>
 FitPal
 https://fitpal.tech/ <br>
 <a href="#"><img align="right" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200 " height="200" /></a>
@@ -55,6 +53,8 @@ MenoTime
 https://meno-time-7sbrk.ondigitalocean.app/ <br>
 Kocoon
 https://github.com/JimSongTheGreatest/Kocoon <br>
+Cms-On-Chain
+https://632cf5989b5e1b01e4c6f25a--decentra-cms.netlify.app/ <br>
 Wedding_Invite_App_English 
 https://jimsongthegreatest.github.io/Wedding_Invite_App_English/ <br>
 Wedding_Invite_App_Korean
