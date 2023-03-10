@@ -41,7 +41,7 @@ Nexus
 http://www.nexus-dashboard.software/ <br>
 ## Javascript Projects <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>  <br>
 [private]Song_LLC
-<a href="https://www.songllc.org/" target="_blank">https://www.songllc.org/</a> <br>
+<a href="https://www.songllc.org/" target="_blank">songllc.org/</a> <br>
 [private]OpenCollection.io
 https://opencollection.io/ <br>
 Avida-ED-Eco
