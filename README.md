@@ -36,7 +36,7 @@
 
 <a href="#"><img align="right" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="200 " height="200" /></a>
 </a>
-## Typescript Projects <img height="40" src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif"/>  <br>
+## Typescript Projects <img height="40" src="https://github.com/remojansen/logo.ts/blob/master/ts.gif"/>  <br>
 Nexus
 http://www.nexus-dashboard.software/ <br>
 ## Javascript Projects <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>  <br>
