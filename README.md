@@ -67,9 +67,9 @@ https://jiminsongsoftware.me/Omnifood/ <br>
 ## Python Projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
 <a href="#"><img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="200" /></a>
 FitPal API
-https://github.com/JimSongTheGreatest/FitPal <br>
+https://github.com/JimSongTheGreatest/FitPal/tree/main/fitness <br>
 Meno-Time API
-https://github.com/JimSongTheGreatest/Meno-Time <br>
+https://github.com/JimSongTheGreatest/Meno-Time/tree/main/myapp <br>
 Kocoon API
 https://github.com/JimSongTheGreatest/Kocoon/tree/main/KocoonAPI <br>
 Coisy API
