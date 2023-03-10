@@ -53,6 +53,8 @@ https://fitpal.tech/ <br>
 <a href="#"><img align="right" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200 " height="200" /></a>
 MenoTime
 https://meno-time-7sbrk.ondigitalocean.app/ <br>
+Coisy
+https://coisy-ev3cdfw9o-jimsongthegreatest.vercel.app/ <br>
 Kocoon
 https://github.com/JimSongTheGreatest/Kocoon <br>
 Cms-On-Chain
