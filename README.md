@@ -1,3 +1,4 @@
+<base target="_blank">
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=JiminSong👨‍💻&fontSize=60)
 
 ### <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="50"> About Me
@@ -41,7 +42,7 @@ Nexus
 http://www.nexus-dashboard.software/ <br>
 ## Javascript Projects <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>  <br>
 [private]Song_LLC
-<a href="https://www.songllc.org/" target="_blank">songllc.org/</a> <br>
+https://www.songllc.org/ <br>
 [private]OpenCollection.io
 https://opencollection.io/ <br>
 Avida-ED-Eco
