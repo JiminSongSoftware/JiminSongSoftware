@@ -64,14 +64,14 @@ https://jimsongthegreatest.github.io/Omnifood/ <br>
 </a>
 ## Python Projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
 <a href="#"><img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="200" /></a>
-KocoonAPI
-https://github.com/JimSongTheGreatest/Kocoon/tree/main/KocoonAPI <br>
-CoisyAPI
-https://github.com/JimSongTheGreatest/Coisy/tree/main/coisy_django <br>
 FitPalAPI
 https://github.com/JimSongTheGreatest/FitPal <br>
 Meno-TimeAPI
 https://github.com/JimSongTheGreatest/Meno-Time <br>
+KocoonAPI
+https://github.com/JimSongTheGreatest/Kocoon/tree/main/KocoonAPI <br>
+CoisyAPI
+https://github.com/JimSongTheGreatest/Coisy/tree/main/coisy_django <br>
 </a>
 ## C++ Projects <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 <a href="#"><img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"></a>
