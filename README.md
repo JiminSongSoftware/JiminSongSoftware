@@ -56,11 +56,11 @@ https://github.com/JimSongTheGreatest/Kocoon <br>
 Cms-On-Chain
 https://632cf5989b5e1b01e4c6f25a--decentra-cms.netlify.app/ <br>
 Wedding_Invite_App_English 
-https://jimsongthegreatest.github.io/Wedding_Invite_App_English/ <br>
+https://jiminsongsoftware.me/Wedding_Invite_App_English/ <br>
 Wedding_Invite_App_Korean
-https://jimsongthegreatest.github.io/Wedding_Invite_App_Korean/ <br>
+https://jiminsongsoftware.me/Wedding_Invite_App_Korean/ <br>
 Omnifood
-https://jimsongthegreatest.github.io/Omnifood/ <br>
+https://jiminsongsoftware.me/Omnifood/ <br>
 </a>
 ## Python Projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
 <a href="#"><img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="200" /></a>
