@@ -99,10 +99,10 @@ https://github.com/JimSongTheGreatest/MindEraser <br>
 
 
 ## Open-Source Projects <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="30"> <br>
-Zipline-Trader
-https://github.com/JimSongTheGreatest/Zipline-Trader/tree/master <br>
 Discourse
 https://github.com/JimSongTheGreatest/Discourse/tree/main <br>
+Zipline-Trader
+https://github.com/JimSongTheGreatest/Zipline-Trader/tree/master <br>
 
 ## LaTeX <br>
 Resume & CoverLetter
