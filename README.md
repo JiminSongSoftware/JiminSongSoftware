@@ -75,20 +75,20 @@ https://github.com/JimSongTheGreatest/Kocoon/tree/main/KocoonAPI <br>
 CoisyAPI
 https://github.com/JimSongTheGreatest/Coisy/tree/main/coisy_django <br>
 </a>
-## C++ Projects <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+## Java Projects <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 <a href="#"><img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"></a>
-Self_Driving_Car
-https://github.com/JimSongTheGreatest/Self_Driving_Car <br>
-RFID_Parking_System
-https://github.com/JimSongTheGreatest/RFID_Parking_System <br>
-
-## Java Projects <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> <br>
 SelfServiceBankingSystem
 https://github.com/JimSongTheGreatest/SelfServiceBankingSystem <br>
 BetterStudent
 https://github.com/JimSongTheGreatest/BetterStudentMySQL <br>
 NexusAPI
 https://github.com/JimSongTheGreatest/Nexus/tree/main/NexusAPI
+
+## C++ Projects <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> <br>
+Self_Driving_Car
+https://github.com/JimSongTheGreatest/Self_Driving_Car <br>
+RFID_Parking_System
+https://github.com/JimSongTheGreatest/RFID_Parking_System <br>
 
 </a>
 
