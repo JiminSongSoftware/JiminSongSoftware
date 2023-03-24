@@ -84,7 +84,7 @@ https://github.com/JimSongTheGreatest/SelfServiceBankingSystem <br>
 BetterStudent
 https://github.com/JimSongTheGreatest/BetterStudentMySQL <br>
 Nexus API
-https://github.com/JimSongTheGreatest/Nexus/tree/main/NexusAPI/src/main/java/com/expo/spring <br>
+https://github.com/JimSongTheGreatest/Nexus/tree/1698a6d06684d0295ce6df0f773b4989849a4a8f/NexusAPI <br>
 
 ## C++ Projects <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> <br>
 Self_Driving_Car
